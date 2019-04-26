@@ -1,5 +1,5 @@
 # Hide-Header-on-Scroll
-This is a JS/jQuery function to hide your website header when scroll-own, and show it when scroll-up.
+This is a JS/jQuery function to hide your website header when scroll-down, and show it when scroll-up.
 You need to load jQuery on your website to user this feature.
 
 The script adds html class called "hide" to <header> when scroll-down is performed.
